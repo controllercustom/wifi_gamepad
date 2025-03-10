@@ -1,0 +1,10 @@
+down
+box "Up to four joysticks and gamepads" fill Bisque fit
+arrow 75%
+box "Computer running Chrome or other browser" fill Bisque fit
+arrow 75%
+box "WiFi" fill Bisque fit
+arrow 75%
+box "ESP32 or Pi Pico W or Pi Pico 2 W" fill Bisque fit
+arrow 75%
+box "Motors, servos, LEDs, etc." fill Bisque fit

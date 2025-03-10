@@ -1,0 +1,21 @@
+<svg width="512" xmlns='http://www.w3.org/2000/svg' style='font-size:initial;' class="pikchr" viewBox="0 0 389.894 371.52">
+<path d="M43.632,32.4L346.262,32.4L346.262,2.16L43.632,2.16Z"  style="fill:rgb(255,228,196);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="194.947" y="17.28" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Up to four joysticks and gamepads</text>
+<polygon points="194.947,86.4 190.627,74.88 199.267,74.88" style="fill:rgb(0,0,0)"/>
+<path d="M194.947,32.4L194.947,80.64"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M2.16,116.64L387.734,116.64L387.734,86.4L2.16,86.4Z"  style="fill:rgb(255,228,196);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="194.947" y="101.52" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Computer running Chrome or other browser</text>
+<polygon points="194.947,170.64 190.627,159.12 199.267,159.12" style="fill:rgb(0,0,0)"/>
+<path d="M194.947,116.64L194.947,164.88"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M169.488,200.88L220.406,200.88L220.406,170.64L169.488,170.64Z"  style="fill:rgb(255,228,196);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="194.947" y="185.76" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">WiFi</text>
+<polygon points="194.947,254.88 190.627,243.36 199.267,243.36" style="fill:rgb(0,0,0)"/>
+<path d="M194.947,200.88L194.947,249.12"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M46.1664,285.12L343.728,285.12L343.728,254.88L46.1664,254.88Z"  style="fill:rgb(255,228,196);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="194.947" y="270" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">ESP32 or Pi Pico W or Pi Pico 2 W</text>
+<polygon points="194.947,339.12 190.627,327.6 199.267,327.6" style="fill:rgb(0,0,0)"/>
+<path d="M194.947,285.12L194.947,333.36"  style="fill:none;stroke-width:2.16;stroke:rgb(0,0,0);" />
+<path d="M78.768,369.36L311.126,369.36L311.126,339.12L78.768,339.12Z"  style="fill:rgb(255,228,196);stroke-width:2.16;stroke:rgb(0,0,0);" />
+<text x="194.947" y="354.24" text-anchor="middle" fill="rgb(0,0,0)" dominant-baseline="central">Motors, servos, LEDs, etc.</text>
+</svg>
+
